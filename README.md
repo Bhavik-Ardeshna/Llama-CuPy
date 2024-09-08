@@ -1,1 +1,1 @@
-# GPU Accelerated LLAMA using CuPY.
+# GPU Accelerated Llama using CuPY.
