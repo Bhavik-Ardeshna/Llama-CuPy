@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+./llama_torch.py
 __pycache__/
 *.py[cod]
 *$py.class
